@@ -8,3 +8,5 @@
 /build
 /tests/server*.json
 .DS_Store
+/.twgit_features_subject
+/.twgit
