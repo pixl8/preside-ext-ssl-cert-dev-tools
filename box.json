@@ -1,0 +1,20 @@
+{
+    "name":"Preside Extension: SSL Certificates Dev Tools",
+    "type":"preside-extensions",
+    "version":"VERSION_NUMBER",
+    "location":"https://s3.eu-west-2.amazonaws.com/pixl8-public-packages/ssl-cert-dev-tools/DOWNLOAD_LOCATION",
+    "private":false,
+    "author":"Pixl8 Interactive",
+    "directory":"application/extensions",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/pixl8/preside-ext-ssl-cert-dev-tools"
+    },
+    "slug":"preside-ext-ssl-cert-dev-tools",
+    "projectURL":"https://github.com/pixl8/preside-ext-ssl-cert-dev-tools",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".travis.yml"
+    ]
+}
